@@ -1,3 +1,27 @@
 [submodule "ProtectTheTemple.Public"]
 	path = ProtectTheTemple.Public
 	url = https://github.com/andr9528/ProtectTheTemple.Public
+[submodule "casparcg-cliptool"]
+	path = casparcg-cliptool
+	url = https://github.com/tv2/casparcg-cliptool
+[submodule "Specialisterne-Academy"]
+	path = Specialisterne-Academy
+	url = https://github.com/andr9528/Specialisterne-Academy
+[submodule "andr9528.github.io"]
+	path = andr9528.github.io
+	url = https://github.com/andr9528/andr9528.github.io
+[submodule "Resume"]
+	path = Resume
+	url = https://github.com/andr9528/Resume
+[submodule "Tracker"]
+	path = Tracker
+	url = https://github.com/andr9528/Tracker
+[submodule "AoMR-Mod-Manager"]
+	path = AoMR-Mod-Manager
+	url = https://github.com/andr9528/AoMR-Mod-Manager
+[submodule "AoMR-Mod-Development-Tools"]
+	path = AoMR-Mod-Development-Tools
+	url = https://github.com/andr9528/AoMR-Mod-Development-Tools
+[submodule "Retold-Mods"]
+	path = Retold-Mods
+	url = https://github.com/andr9528/Retold-Mods
